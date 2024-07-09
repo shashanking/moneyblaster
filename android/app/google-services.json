@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372704960907",
+    "project_id": "money-blaster-c39fc",
+    "storage_bucket": "money-blaster-c39fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372704960907:android:211c2d416fd57df0494f8e",
+        "android_client_info": {
+          "package_name": "com.moneyblaster.moneyblaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvgs8lUMznCjs4G_rpOZ4Wrs5gpJfod70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372704960907:android:c5d83bf1d2a29076494f8e",
+        "android_client_info": {
+          "package_name": "com.mycompany.moneyblasterdashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvgs8lUMznCjs4G_rpOZ4Wrs5gpJfod70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
